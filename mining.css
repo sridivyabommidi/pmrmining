@@ -1,0 +1,122 @@
+
+.menu-button{
+    background-color:black;
+   
+    font-size:20px;
+    border-radius:30px;
+    color:white;
+    text-shadow:1px 1px 4px #ffd93d;
+    
+
+}
+
+.pmrlogo{
+    width:120px;
+
+}
+.banner{
+    background-image:url("https://wallpaperaccess.com/full/2741780.jpg");
+    background-size:cover;
+   
+    padding-top:50px;
+   
+
+   
+
+}
+
+
+
+@media(max-width:576px){
+    .pmrlogo{
+       width:70px;
+    }
+    .icons{
+        font-size:15px;
+    }
+
+    .fonts{
+        font-size:20px;
+    }
+    .banner{
+        padding-bottom:100px;
+    }
+    
+  
+}
+
+@media(min-width:578px;){
+    .cars{
+        height:80vh;
+    }
+    
+}
+
+.icons{
+    color:black;
+    font-size:30px;
+    
+    padding:3px;
+    border-style:solid;
+    border-width:1px;
+    border-color:black;
+    border-radius:100%;
+}
+
+.navs{
+    
+    color:white;
+    font-size:25px;
+    text-decoration:none;
+    text-shadow:1px 1px 4px #ffd93d;
+}
+
+.crossmark{
+    color:white;
+    font-size:30px;
+}
+
+
+
+
+
+
+.banner-img{
+    align-self:flex-end;
+
+
+   
+    
+}
+
+.spahead{
+   color:#00d2ff;
+}
+
+
+.bimg{
+   
+   width:100%;
+   border-top-left-radius:100%;
+   
+}
+
+.owlnavs{
+    background-color:black;
+    color:white;
+    margin-right:20px;
+}
+
+
+.servicenavs{
+    background-color:white;
+    color:black;
+    text-shadow:1px 1px 4px black;
+    border-radius:100%;
+    
+}
+
+#id1, #id2, #id3, #id4, #id5, #id6, #id7, #id8, #id9{
+    color:black;
+    font-weight:bold;
+}
